@@ -11,16 +11,16 @@
   "releaseNotes": "",
 
   "frameworks": {
-    "net4.5.1": {
+    "dnx4.5.1": {
+
+    },
+    "dnxcore5": {
 
     },
     "dotnet5.4": {
 
     },
-    "dnx4.5.1": {
-
-    },
-    "dnxcore5": {
+    "net4.5.1": {
 
     },
     "netcore5": {
