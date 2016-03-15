@@ -1,0 +1,34 @@
+﻿{
+  "version": "3.0.0-alpha01",
+  "description": "SimplePersistence.Model.EF7 extends the SimplePersistence.Model package by exposing dedicated Entity Framework 7 extension methods and classes.",
+  "authors": [ "João Simões" ],
+  "tags": [ "database", "model", "persistence", "Entity Framework 7", "EF7" ],
+  "projectUrl": "https://github.com/SimplePersistence/SimplePersistence.UoW.EF7",
+  "licenseUrl": "https://github.com/SimplePersistence/SimplePersistence.UoW.EF7/blob/master/LICENSE",
+  "iconUrl": "https://avatars3.githubusercontent.com/u/17026510",
+  "language": "en-US",
+  "copyright": "Copyright © 2016 SimplePersistence",
+  "releaseNotes": "",
+
+  "frameworks": {
+    "net4.5.1": {
+
+    },
+    "dotnet5.4": {
+
+    },
+    "dnx4.5.1": {
+
+    },
+    "dnxcore5": {
+
+    },
+    "netcore5": {
+
+    }
+  },
+  "dependencies": {
+    "SimplePersistence.Model": "3.0.2",
+    "EntityFramework.Core": "7.0.0-rc1-final"
+  }
+}
