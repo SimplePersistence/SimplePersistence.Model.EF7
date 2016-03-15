@@ -26,7 +26,7 @@ namespace SimplePersistence.Model.EF7.Fluent
     using System;
 
     /// <summary>
-    /// Extension methods for Entity Framework code first mappings
+    /// Extension methods for Entity Framework 7 code first mappings
     /// </summary>
     [CLSCompliant(false)]
     public static partial class CodeFirstMappingExtensions
