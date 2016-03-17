@@ -1,5 +1,6 @@
 ﻿{
   "version": "3.0.0-rc1",
+  "title": "SimplePersistence.Model.EF7",
   "description": "SimplePersistence.Model.EF7 extends the SimplePersistence.Model package by exposing dedicated Entity Framework 7 extension methods and classes.",
   "authors": [ "João Simões" ],
   "tags": [ "database", "model", "persistence", "Entity Framework 7", "EF7" ],
